@@ -1,14 +1,14 @@
 {
     "author": "Olivier Poitrey <rs@dailymotion.com>",
-    "name": "netmask",
+    "name": "netmask-community",
     "description": "Parse and lookup IP network blocks",
-    "version": "1.0.6",
-    "homepage": "https://github.com/rs/node-netmask",
-    "bugs": "https://github.com/rs/node-netmask/issues",
+    "version": "1.1.0-1",
+    "homepage": "https://github.com/freewil/node-netmask",
+    "bugs": "https://github.com/freewil/node-netmask/issues",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git://github.com/rs/node-netmask.git"
+        "url": "git://github.com/freewil/node-netmask.git"
     },
     "keywords": [
         "net",
